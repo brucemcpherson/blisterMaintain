@@ -1,5 +1,5 @@
 # Google Apps Script Project: blisterMaintain
-This repo (blisterMaintain) was automatically updated on 15 September 2015 11:47:20 BST by GasGit
+This repo (blisterMaintain) was automatically updated on 28 September 2015 17:42:27 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project blisterMaintain
@@ -37,8 +37,6 @@ cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|11|no|[here](
 cRipDB| cRipDB|MZUHVrKIC3rGLHAFDiLLGriz3TLx7pV4j|3|no|[here](libraries/cRipDB "library source")
 university| university|MUSc6AFhHuoAK4FdhWqqGvKi_d-phDA33|2|no|[here](libraries/university "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
